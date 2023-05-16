@@ -1,4 +1,4 @@
-let com=['abc','def','ghi','jkl','mno','pqrs','tuv','wxyz'];
+let com=[0,1,'abc','def','ghi','jkl','mno','pqrs','tuv','wxyz'];
 
 
 function f(ques,comb,res){
