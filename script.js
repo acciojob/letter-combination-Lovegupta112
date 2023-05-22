@@ -20,7 +20,7 @@ function f(ques,comb,res){
 function letterCombinations(input_digit) {
   //Complete the function
 	let res=[];
-f(input,"",res);
+f(input_digit,"",res);
 return res;
 }
 
